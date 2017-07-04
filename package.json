@@ -1,0 +1,23 @@
+{
+  "name": "mlee-string-module",
+  "version": "0.10.0",
+  "description": "A module that returns alphanumeric strings",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myongjailee/mlee-string-module.git"
+  },
+  "keywords": [
+    "string",
+    "testing"
+  ],
+  "author": "mlee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/myongjailee/mlee-string-module/issues"
+  },
+  "homepage": "https://github.com/myongjailee/mlee-string-module#readme"
+}
